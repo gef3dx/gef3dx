@@ -2,6 +2,22 @@
   <img height="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gef3dx&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/gef3dx" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
 ###
 
 <p align="center">Hi! 👋 My name is German and I am the coolest 😎 backend developer.</p>
