@@ -4,12 +4,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gef3dx&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
             <a href="https://paypal.me/gef3dx" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
