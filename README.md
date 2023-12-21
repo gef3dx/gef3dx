@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://res.cloudinary.com/wagon/image/upload/v1/cache/24459335b1f2d2b1b0944f222a18fe21.png"  />
+  <img height="200" src="https://res.cloudinary.com/wagon/image/upload/v1/cache/24459335b1f2d2b1b0944f222a18fe21.png"  />
 </div>
 
 
