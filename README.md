@@ -13,8 +13,7 @@
 <p align="center">Hi! 👋 My name is German and I am the coolest 😎 backend developer.</p>
 
 ###
-<img src="https://github.com/gef3dx/gef3dx/blob/main/git.svg" />
-###
+<img src="https://github.com/gef3dx/gef3dx/blob/main/git.svg" align="center" />
 
 <div align="center">
   <a href="https://wa.me/79604018811" target="_blank">
